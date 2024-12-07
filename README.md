@@ -1,3 +1,3 @@
 # DESCRIBE
 
-- [address]([#in](https://github.com/Pulsebit/send-new))
+- [address](https://github.com/Pulsebit/send-new)
